@@ -1,6 +1,5 @@
 # VIRTUAL-ZOO
-Ha
-\rdik 12308526
+Hardik 12308526
 Vikrant 12304696
 question number 90 virtual zoo
 in this me and my team had worked on making an html based front page for the site VIRTUAL ZOO
